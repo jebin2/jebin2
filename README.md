@@ -52,7 +52,6 @@
 ## 📫 Contact Me
 
 - Email: jebineinstein@gmail.com
-<!--- Phone: +919952542126-->
 - Location: Chennai, India
 - LinkedIn: [www.linkedin.com/in/jebin-einstein-b9b88068](https://www.linkedin.com/in/jebin-einstein-b9b88068)
 - GitHub: [github.com/jebin2](https://github.com/jebin2)
