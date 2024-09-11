@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/jebin-einstein-b9b88068)
+- [GitHub](https://github.com/jebin2)
+- [Email](mailto:jebineinstein@gmail.com)
+
 <!--
 **jebin2/jebin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
