@@ -1,5 +1,5 @@
 # Jebin Einstein E
-**Applied Generative AI Engineer**
+**Software Engineer**
 
 [jebineinstein@gmail.com](mailto:jebineinstein@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jebin-einstein-b9b88068) • [GitHub](https://github.com/jebin2) • [Portfolio](https://www.voidall.com/)
 
