@@ -26,9 +26,9 @@ Small, private tools for [Omarchy](https://omarchy.org) (Arch + Hyprland).
 - **[Read Aloud](https://github.com/jebin2/omarchy-read-aloud)** – Offline text-to-speech in the bar (Kokoro on the CPU): highlight text, press a key, and each word lights up as it's spoken. *In the [Omarchy plugin marketplace](https://plugins.omarchy.org/plugin.html?id=jebin2.read-aloud).*
 - **[pique](https://github.com/jebin2/pique)** – A peek browser: look at a link without opening a tab.
 - **[omarchy-vm](https://github.com/jebin2/omarchy-vm)** – Try Omarchy without wiping your laptop: the real installer in a GPU-accelerated VM.
-- **[Ayis](https://github.com/jebin2/ayis)** – Play your games from a GPU on AWS or your own Linux server.
 
 ### 🛠️ Projects
+- **[Ayis](https://github.com/jebin2/ayis)** – Play your games from a GPU on AWS or your own Linux server.
 - **[Comic Panel Extractor](https://jebin2-comic-panel-extractor.hf.space/)** – Object detection workflow for comic panel extraction using YOLO.
 - **[Animate Image](https://www.voidall.com/animateimage/)** – Client-side generative image animation tool.
 - **[SRTify](https://jebin2.github.io/SRTify/)** – Speech-to-text transcription using Whisper.
