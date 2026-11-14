@@ -30,11 +30,11 @@ Small, private tools for [Omarchy](https://omarchy.org) (Arch + Hyprland).
 ### 🛠️ Projects
 - **[Ayis](https://github.com/jebin2/ayis)** – Play your games from a GPU on AWS or your own Linux server.
 - **[Comic Panel Extractor](https://jebin2-comic-panel-extractor.hf.space/)** – Object detection workflow for comic panel extraction using YOLO.
-- **[Animate Image](https://www.voidall.com/animateimage/)** – Client-side generative image animation tool.
 - **[SRTify](https://jebin2.github.io/SRTify/)** – Speech-to-text transcription using Whisper.
 - **[KuralGPT](https://github.com/jebin2/KuralGPT)** – Thirukural semantic search and chat using custom word vectors.
-- **[Currency Rates](https://jebin2.github.io/currency)** – Real-time currency conversion PWA.
+- **[Animate Image](https://www.voidall.com/animateimage/)** – Client-side generative image animation tool.
 - **[Paper](https://jebin2-paper.hf.space/)** – Privacy-focused secure client-side notepad.
+- **[Currency Rates](https://jebin2.github.io/currency)** – Real-time currency conversion PWA.
 - **[SVGIFY](https://jebin2.github.io/svgify)** – Convert SVG to image formats with MathML support.
 
 ### 🎓 Education
