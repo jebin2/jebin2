@@ -33,7 +33,7 @@ Small, private tools for [Omarchy](https://omarchy.org) (Arch + Hyprland).
 - **[Comic Panel Extractor](https://jebin2-comic-panel-extractor.hf.space/)** – Object detection workflow for comic panel extraction using YOLO.
 - **[SRTify](https://jebin2.github.io/SRTify/)** – Speech-to-text transcription using Whisper.
 - **[KuralGPT](https://github.com/jebin2/KuralGPT)** – Thirukural semantic search and chat using custom word vectors.
-- **[Animate Image](https://www.voidall.com/animateimage/)** – Client-side generative image animation tool.
+- **[Animate Image](https://animateimage.voidall.com)** – Turn a photo into a seamlessly looping video with Veo, in the browser with your own Gemini key.
 - **[Paper](https://jebin2-paper.hf.space/)** – Privacy-focused secure client-side notepad.
 - **[Currency Rates](https://jebin2.github.io/currency)** – Real-time currency conversion PWA.
 - **[SVGIFY](https://jebin2.github.io/svgify)** – Convert SVG to image formats with MathML support.
