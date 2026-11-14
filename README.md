@@ -29,6 +29,7 @@ Small, private tools for [Omarchy](https://omarchy.org) (Arch + Hyprland).
 
 ### 🛠️ Projects
 - **[Ayis](https://github.com/jebin2/ayis)** – Play your games from a GPU on AWS or your own Linux server.
+- **[JellyJump](https://jellyjump.voidall.com/)** – Media player and video tools in the browser, powered by MediaBunny.
 - **[Comic Panel Extractor](https://jebin2-comic-panel-extractor.hf.space/)** – Object detection workflow for comic panel extraction using YOLO.
 - **[SRTify](https://jebin2.github.io/SRTify/)** – Speech-to-text transcription using Whisper.
 - **[KuralGPT](https://github.com/jebin2/KuralGPT)** – Thirukural semantic search and chat using custom word vectors.
